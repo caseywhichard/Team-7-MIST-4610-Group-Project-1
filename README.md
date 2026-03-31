@@ -11,9 +11,9 @@ The goal of this project is to design and build a relational database that repre
 
 ## Data Model
 >Our model is based on the structure of a multi‑location coffee chain. The Store entity represents each physical coffee shop location. Each store employs multiple workers, which is why we established a one‑to‑many relationship between the Store and Employees entities. Stores also manage their own equipment and inventory, so the Equipment and Inventory tables each have a one‑to‑many relationship with Store as well.
->
+
 >Customers interact with the business primarily through orders. Because a customer can place many orders, we created a one‑to‑many relationship between Customers and Order. Customers typically also participate in the loyalty program, which is represented by the Loyalty entity. Since each customer can only have one loyalty account, this is modeled as a one‑to‑one relationship between Customers and Loyalty.
->
+
 >Each order can have multiple items, and each menu item can appear in many different orders. To represent this many‑to‑many relationships, we created the OrderItem associative entity, which links Order and MenuItem. OrderItem also stores the quantity and unit price for each item purchased.
 >
 >Inventory is replenished through shipments from suppliers. The SupplierItem entity represents items shipped by suppliers, and the Inventory table references these shipments to track which supplier deliveries contributed to current stock levels. Because a supplier can ship many items, but each shipment record corresponds to a single supplier, this is modeled as a one‑to‑many relationship between Suppliers and SupplierItem.
