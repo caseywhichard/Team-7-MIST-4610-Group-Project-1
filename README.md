@@ -7,4 +7,7 @@ Group 7
   3. Sydney Pratt - https://github.com/scp31975/Jiterry-Joe-s-
   4. Mino Guzman 
 ## Problem Description
-## Explanation of Data Model
+## Data Model
+## Data Dictionary
+## Queries:
+## Assumptions
