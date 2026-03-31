@@ -26,7 +26,7 @@ Overall, this data model captures the complete operational flow of the global co
 <img width="1282" height="1294" alt="image" src="https://github.com/user-attachments/assets/e211dfa2-dd6d-4671-a325-3721a2485ceb" />
 
 ## Data Dictionary
-!<img width="456" height="456" alt="Screenshot 2026-03-31 at 2 25 55 PM" src="https://github.com/user-attachments/assets/463f99cc-354d-4487-bb20-a8dac6a2afd1" />
+!img width="456" height="456" alt="Screenshot 2026-03-31 at 2 25 55 PM" src="https://github.com/user-attachments/assets/463f99cc-354d-4487-bb20-a8dac6a2afd1" />
 
 !<img width="451" height="456" alt="Screenshot 2026-03-31 at 2 26 05 PM" src="https://github.com/user-attachments/assets/f21ece02-3687-449c-bb1d-eb7347bb4c97" />
 
