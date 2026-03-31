@@ -53,6 +53,8 @@ Overall, this data model captures the complete operational flow of the global co
 <br><br>
 <img width="452" height="322" alt="Screenshot 2026-03-31 at 2 27 59 PM" src="https://github.com/user-attachments/assets/bfc9539f-c1df-4927-8a1b-b26e6c05726f" />
 </p>
+
 ## Queries:
+
 ## Assumptions
 - LoyaltyID is stored redundantly to preserve the customer’s loyalty tier at the time of the order/payment, since loyalty status can change over time.
