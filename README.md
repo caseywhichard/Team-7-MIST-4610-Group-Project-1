@@ -26,33 +26,31 @@ Overall, this data model captures the complete operational flow of the global co
 <img width="1282" height="1294" alt="image" src="https://github.com/user-attachments/assets/e211dfa2-dd6d-4671-a325-3721a2485ceb" />
 
 ## Data Dictionary
+<img width="456" height="456" alt="Screenshot 2026-03-31 at 2 25 55 PM" src="https://github.com/user-attachments/assets/463f99cc-354d-4487-bb20-a8dac6a2afd1" />
 
+<img width="451" height="456" alt="Screenshot 2026-03-31 at 2 26 05 PM" src="https://github.com/user-attachments/assets/f21ece02-3687-449c-bb1d-eb7347bb4c97" />
 
+<img width="451" height="409" alt="Screenshot 2026-03-31 at 2 26 16 PM" src="https://github.com/user-attachments/assets/97caa528-8771-4ad9-b277-bc652a9f7bdc" />
 
+<img width="451" height="458" alt="Screenshot 2026-03-31 at 2 26 25 PM" src="https://github.com/user-attachments/assets/e7748a6d-ee96-47a7-a2d4-dfa0d2818fa4" />
 
+<img width="465" height="432" alt="Screenshot 2026-03-31 at 2 26 34 PM" src="https://github.com/user-attachments/assets/fd65dc39-b19c-42b7-98ac-d3761286117b" />
 
+<img width="454" height="294" alt="Screenshot 2026-03-31 at 2 26 42 PM" src="https://github.com/user-attachments/assets/3182d553-bac2-46b8-bbd0-8f448864d17b" />
 
+<img width="458" height="436" alt="Screenshot 2026-03-31 at 2 26 52 PM" src="https://github.com/user-attachments/assets/d08ca955-ec0a-44de-803c-32bc53218628" />
 
+<img width="465" height="458" alt="Screenshot 2026-03-31 at 2 27 03 PM" src="https://github.com/user-attachments/assets/bc2e3b12-c84c-49df-8f43-27b8d3c5ee8c" />
 
+<img width="464" height="532" alt="Screenshot 2026-03-31 at 2 27 16 PM" src="https://github.com/user-attachments/assets/27d375bc-78b9-4f3a-8cf1-326b07f4a92d" />
 
+<img width="454" height="528" alt="Screenshot 2026-03-31 at 2 27 26 PM" src="https://github.com/user-attachments/assets/a6181e58-69e5-458e-9f73-2a0c2e96bc35" />
 
+<img width="455" height="255" alt="Screenshot 2026-03-31 at 2 27 34 PM" src="https://github.com/user-attachments/assets/039b47f9-a3fb-4693-a1b3-10d3fa7e260b" />
 
+<img width="453" height="366" alt="Screenshot 2026-03-31 at 2 27 47 PM" src="https://github.com/user-attachments/assets/b79c0bdd-0119-48a4-88ab-b13dc9ac2133" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="452" height="322" alt="Screenshot 2026-03-31 at 2 27 59 PM" src="https://github.com/user-attachments/assets/bfc9539f-c1df-4927-8a1b-b26e6c05726f" />
 
 ## Queries:
 ## Assumptions
