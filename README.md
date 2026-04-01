@@ -68,7 +68,7 @@ This query allows leadership to quickly identify which café managers are employ
   </p>
 This query helps managers identify which menu items have never been purchased. Items with zero orders may signal low visibility, poor appeal, or unnecessary complexity on the menu. By isolating these products, managers can decide whether to promote them, adjust pricing, or remove them to reduce waste and streamline inventory.
 
-### 3. Show all orders and their status'
+### 3. Show all orders and their status
 <p align="center">
 <img width="621" height="484" alt="Screenshot 2026-03-31 at 9 25 40 PM" src="https://github.com/user-attachments/assets/9e4f5de5-2106-4231-8b30-41ad9a21483a" />
   </p>
