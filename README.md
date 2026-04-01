@@ -116,5 +116,8 @@ This query identifies the customer with the highest total spending across all th
   </p>
 This query identifies which menu items generate more revenue than the average item on the menu. Like the store‑level version, it calculates each item’s total revenue and compares it to the overall average, returning only the strongest performers. This helps managers quickly see which products drive the most sales, guiding decisions about promotion, pricing, and menu placement to maximize revenue.
 
+## Databased Information
+MySQL server: al_Group_21479_G7
+
 ## Assumptions
 - LoyaltyID is stored redundantly to preserve the customer’s loyalty tier at the time of the order/payment, since loyalty status can change over time.
